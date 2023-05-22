@@ -110,3 +110,8 @@ const App = () => {
 };
 
 render(<App />, document.querySelector('#app'));
+
+// playBell = () => {
+//   const bell = new Audio('./sounds/bell.wav');
+//   bell.play();
+// };
